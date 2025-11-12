@@ -1,0 +1,151 @@
+Student_ID,Student_Name,Course,Assignment_Completion_%,Content_Score_Avg,Communication_Skill_(10),Batch_Start_Date,Placed,CTC_LPA
+STU001,Ishaan Das,Data Analytics,83,53,9,2024-05-19,Yes,7.6
+STU002,Anika Patel,Full Stack Web Dev,96,42,5,2024-02-17,No,
+STU003,Aditya Kumar,Full Stack Web Dev,73,40,6,2024-08-12,Yes,4.29
+STU004,Aditya Verma,Full Stack Web Dev,59,44,10,2024-02-19,Yes,5.33
+STU005,Krishna Sharma,Full Stack Web Dev,87,65,9,2024-02-23,Yes,6.51
+STU006,Krishna Kumar,Data Analytics,52,94,6,2024-06-16,Yes,6.22
+STU007,Ira Nair,Python DA,65,53,3,2024-08-17,No,
+STU008,Ayaan Das,Data Analytics,83,78,3,2024-08-22,Yes,4.73
+STU009,Kiara Sharma,Python DA,63,66,10,2024-02-17,Yes,3.25
+STU010,Ira Verma,Full Stack Web Dev,67,48,10,2024-09-10,No,
+STU011,Meera Reddy,Data Analytics,55,54,9,2024-10-10,No,
+STU012,Muhammad Kumar,Python DA,55,54,4,2024-04-26,Yes,8.85
+STU013,Navya Kumar,Data Analytics,68,65,10,2024-08-15,Yes,5.16
+STU014,Aarav Nair,Full Stack Web Dev,97,81,3,2024-04-14,No,
+STU015,Arjun Kumar,Python DA,80,99,5,2024-01-23,Yes,7.58
+STU016,Aarav Nair,Data Analytics,84,52,6,2024-06-02,Yes,6.12
+STU017,Krishna Kumar,Full Stack Web Dev,68,90,3,2024-04-06,Yes,6.2
+STU018,Pari Das,Python DA,47,71,3,2024-08-15,Yes,3.12
+STU019,Ananya Sharma,Data Analytics,66,78,4,2024-03-29,No,
+STU020,Reyansh Gupta,Full Stack Web Dev,97,88,9,2024-09-26,Yes,7.02
+STU021,Meera Yadav,Full Stack Web Dev,46,91,9,2024-08-19,Yes,6.65
+STU022,Reyansh Reddy,Data Analytics,68,100,8,2024-05-22,Yes,4.1
+STU023,Myra Das,Python DA,88,71,4,2024-10-15,Yes,9.6
+STU024,Aarav Gupta,Python DA,74,43,5,2024-07-03,Yes,8.36
+STU025,Aarav Singh,Full Stack Web Dev,82,69,9,2024-05-28,Yes,3.35
+STU026,Ishaan Reddy,Data Analytics,46,76,6,2024-02-20,No,
+STU027,Ishaan Yadav,Data Analytics,65,62,10,2024-10-14,Yes,9.81
+STU028,Vihaan Yadav,Full Stack Web Dev,77,78,4,2024-05-04,Yes,9.97
+STU029,Vivaan Nair,Data Analytics,56,84,10,2024-09-26,Yes,2.92
+STU030,Aarav Patel,Full Stack Web Dev,66,54,3,2024-10-14,Yes,8.03
+STU031,Arjun Nair,Python DA,88,82,6,2024-04-05,Yes,6.59
+STU032,Diya Yadav,Data Analytics,69,68,6,2024-01-02,Yes,7.79
+STU033,Aarav Yadav,Data Analytics,93,75,3,2024-04-28,Yes,9.76
+STU034,Vihaan Kumar,Python DA,71,52,4,2024-02-03,No,
+STU035,Ananya Das,Full Stack Web Dev,86,71,3,2024-10-01,Yes,8.78
+STU036,Navya Gupta,Python DA,72,46,10,2024-05-26,Yes,9.0
+STU037,Ira Yadav,Python DA,60,98,8,2024-02-05,Yes,8.79
+STU038,Anika Das,Python DA,59,90,6,2024-01-27,Yes,5.7
+STU039,Meera Reddy,Full Stack Web Dev,91,61,7,2024-07-08,Yes,4.17
+STU040,Anika Sharma,Full Stack Web Dev,95,67,7,2024-01-11,Yes,5.47
+STU041,Myra Gupta,Python DA,88,41,10,2024-10-19,No,
+STU042,Aarav Reddy,Full Stack Web Dev,99,81,5,2024-06-25,No,
+STU043,Aarav Nair,Full Stack Web Dev,96,84,9,2024-04-14,Yes,6.35
+STU044,Vihaan Reddy,Data Analytics,47,96,3,2024-09-26,Yes,4.25
+STU045,Pari Yadav,Full Stack Web Dev,81,92,3,2024-06-22,Yes,6.86
+STU046,Meera Das,Python DA,95,45,5,2024-10-14,Yes,8.97
+STU047,Aadhya Das,Full Stack Web Dev,51,67,5,2024-10-21,Yes,9.1
+STU048,Kiara Yadav,Python DA,65,67,10,2024-10-12,Yes,4.28
+STU049,Arjun Kumar,Python DA,53,83,10,2024-10-22,No,
+STU050,Arjun Das,Data Analytics,83,83,5,2024-02-17,Yes,6.94
+STU051,Ananya Das,Full Stack Web Dev,62,59,6,2024-07-13,No,
+STU052,Pari Yadav,Full Stack Web Dev,48,69,10,2024-01-30,Yes,7.81
+STU053,Muhammad Patel,Data Analytics,69,50,8,2024-07-18,No,
+STU054,Anika Das,Full Stack Web Dev,58,97,10,2024-02-09,Yes,5.33
+STU055,Diya Singh,Python DA,94,94,3,2024-05-24,Yes,7.79
+STU056,Pari Yadav,Data Analytics,53,67,10,2024-06-25,Yes,4.37
+STU057,Aarav Yadav,Data Analytics,70,64,6,2024-05-10,Yes,4.98
+STU058,Diya Das,Python DA,97,78,5,2024-02-21,Yes,5.76
+STU059,Aarav Patel,Data Analytics,46,72,3,2024-06-12,No,
+STU060,Ananya Reddy,Python DA,64,40,10,2024-02-24,No,
+STU061,Anika Verma,Python DA,72,96,6,2024-05-20,Yes,6.79
+STU062,Vivaan Reddy,Python DA,91,66,8,2024-03-22,Yes,8.06
+STU063,Pari Sharma,Python DA,51,96,10,2024-01-25,Yes,8.25
+STU064,Vivaan Kumar,Data Analytics,88,91,6,2024-04-15,Yes,8.67
+STU065,Diya Singh,Data Analytics,52,52,8,2024-01-21,Yes,8.08
+STU066,Myra Patel,Full Stack Web Dev,91,80,5,2024-03-03,Yes,7.61
+STU067,Arjun Sharma,Full Stack Web Dev,79,42,10,2024-02-01,Yes,4.28
+STU068,Aarav Kumar,Full Stack Web Dev,58,78,8,2024-08-28,Yes,5.5
+STU069,Ayaan Verma,Data Analytics,61,45,3,2024-07-28,No,
+STU070,Ira Patel,Python DA,80,47,5,2024-01-24,Yes,3.12
+STU071,Reyansh Nair,Data Analytics,94,66,3,2024-10-22,No,
+STU072,Arjun Patel,Python DA,84,48,7,2024-02-19,Yes,5.77
+STU073,Vihaan Verma,Python DA,48,76,4,2024-06-16,Yes,8.52
+STU074,Aarav Verma,Data Analytics,46,72,10,2024-06-22,Yes,9.83
+STU075,Aditya Gupta,Python DA,50,90,8,2024-02-17,Yes,6.67
+STU076,Ira Verma,Data Analytics,98,81,4,2024-02-29,No,
+STU077,Vivaan Nair,Python DA,86,83,4,2024-05-01,Yes,2.83
+STU078,Reyansh Yadav,Python DA,48,63,8,2024-07-18,Yes,9.43
+STU079,Meera Singh,Python DA,98,54,5,2024-10-08,No,
+STU080,Aditya Nair,Full Stack Web Dev,73,98,10,2024-08-22,Yes,4.4
+STU081,Navya Patel,Data Analytics,62,93,7,2024-03-06,Yes,7.72
+STU082,Myra Yadav,Data Analytics,70,71,3,2024-05-20,Yes,3.07
+STU083,Navya Sharma,Python DA,88,71,6,2024-01-31,Yes,3.75
+STU084,Pari Sharma,Python DA,78,63,3,2024-01-30,Yes,4.13
+STU085,Myra Verma,Full Stack Web Dev,54,80,6,2024-06-14,Yes,4.71
+STU086,Ananya Gupta,Python DA,80,91,3,2024-01-23,Yes,9.97
+STU087,Ananya Sharma,Full Stack Web Dev,58,88,8,2024-10-19,Yes,7.73
+STU088,Meera Singh,Full Stack Web Dev,75,88,7,2024-03-30,Yes,5.38
+STU089,Vihaan Singh,Data Analytics,92,97,10,2024-07-23,Yes,8.03
+STU090,Muhammad Nair,Data Analytics,59,91,6,2024-08-19,No,
+STU091,Aadhya Kumar,Python DA,52,51,10,2024-05-02,Yes,9.69
+STU092,Meera Singh,Python DA,58,78,10,2024-02-28,Yes,2.93
+STU093,Aadhya Reddy,Full Stack Web Dev,67,41,10,2024-10-15,No,
+STU094,Ishaan Gupta,Data Analytics,84,42,9,2024-01-29,No,
+STU095,Pari Patel,Data Analytics,65,88,5,2024-01-14,Yes,5.02
+STU096,Ishaan Sharma,Data Analytics,60,76,3,2024-07-30,Yes,3.77
+STU097,Reyansh Verma,Data Analytics,89,88,10,2024-05-02,Yes,7.35
+STU098,Aditya Kumar,Full Stack Web Dev,62,95,3,2024-08-03,Yes,5.41
+STU099,Ishaan Kumar,Data Analytics,91,56,10,2024-07-30,No,
+STU100,Aadhya Gupta,Full Stack Web Dev,97,98,6,2024-08-26,No,
+STU101,Aditya Nair,Data Analytics,68,88,5,2024-06-27,Yes,5.2
+STU102,Arjun Reddy,Python DA,70,41,5,2024-03-14,Yes,4.45
+STU103,Navya Reddy,Data Analytics,69,41,8,2024-03-29,No,
+STU104,Aarav Reddy,Data Analytics,89,67,9,2024-05-07,Yes,2.74
+STU105,Muhammad Patel,Full Stack Web Dev,85,93,8,2024-03-20,Yes,4.6
+STU106,Ananya Patel,Python DA,73,62,8,2024-07-11,Yes,5.58
+STU107,Aadhya Yadav,Python DA,59,76,8,2024-04-27,Yes,7.02
+STU108,Arjun Patel,Data Analytics,89,71,8,2024-08-22,No,
+STU109,Vihaan Reddy,Data Analytics,45,72,8,2024-10-02,No,
+STU110,Ishaan Gupta,Data Analytics,69,40,7,2024-04-21,No,
+STU111,Muhammad Yadav,Python DA,51,58,5,2024-10-24,No,
+STU112,Navya Nair,Data Analytics,53,41,8,2024-02-14,No,
+STU113,Aarav Gupta,Python DA,68,92,10,2024-06-19,Yes,6.86
+STU114,Pari Singh,Python DA,45,83,5,2024-05-23,Yes,9.39
+STU115,Aarav Reddy,Full Stack Web Dev,88,65,5,2024-02-29,Yes,3.12
+STU116,Ananya Reddy,Full Stack Web Dev,52,71,4,2024-02-17,No,
+STU117,Ishaan Das,Full Stack Web Dev,68,45,7,2024-10-02,No,
+STU118,Vivaan Singh,Data Analytics,55,71,8,2024-10-25,Yes,3.74
+STU119,Aadhya Reddy,Data Analytics,95,94,3,2024-04-06,No,
+STU120,Kiara Verma,Data Analytics,61,43,6,2024-05-16,No,
+STU121,Vivaan Verma,Full Stack Web Dev,52,94,9,2024-08-30,Yes,6.1
+STU122,Myra Nair,Full Stack Web Dev,79,50,10,2024-01-16,Yes,9.89
+STU123,Ira Gupta,Python DA,79,95,3,2024-05-26,Yes,5.33
+STU124,Arjun Das,Data Analytics,77,98,7,2024-01-11,Yes,8.12
+STU125,Aarav Nair,Data Analytics,49,56,6,2024-06-06,Yes,5.45
+STU126,Diya Yadav,Full Stack Web Dev,86,77,7,2024-04-14,Yes,8.72
+STU127,Myra Das,Full Stack Web Dev,83,63,10,2024-07-09,Yes,6.77
+STU128,Navya Nair,Data Analytics,85,44,5,2024-06-09,No,
+STU129,Aarav Gupta,Python DA,72,91,6,2024-01-03,Yes,2.78
+STU130,Ayaan Nair,Python DA,51,73,5,2024-07-19,No,
+STU131,Reyansh Sharma,Full Stack Web Dev,53,45,10,2024-03-08,Yes,2.6
+STU132,Myra Kumar,Data Analytics,52,61,3,2024-07-01,Yes,3.07
+STU133,Anika Sharma,Full Stack Web Dev,56,50,10,2024-05-20,Yes,7.69
+STU134,Kiara Verma,Data Analytics,78,87,3,2024-07-09,No,
+STU135,Ira Yadav,Python DA,77,55,6,2024-03-21,Yes,8.12
+STU136,Arjun Verma,Data Analytics,92,72,6,2024-05-20,No,
+STU137,Myra Sharma,Python DA,99,48,8,2024-05-07,Yes,6.89
+STU138,Vihaan Verma,Full Stack Web Dev,67,99,7,2024-07-29,Yes,7.95
+STU139,Navya Nair,Python DA,68,98,8,2024-09-14,No,
+STU140,Ananya Gupta,Data Analytics,81,45,7,2024-07-07,Yes,5.33
+STU141,Ishaan Sharma,Full Stack Web Dev,79,55,8,2024-02-16,Yes,4.31
+STU142,Anika Yadav,Full Stack Web Dev,88,68,5,2024-05-21,Yes,4.04
+STU143,Vivaan Patel,Python DA,84,42,6,2024-09-04,Yes,4.39
+STU144,Krishna Kumar,Full Stack Web Dev,66,59,3,2024-08-07,No,
+STU145,Kiara Kumar,Python DA,71,99,7,2024-04-19,Yes,4.05
+STU146,Muhammad Reddy,Data Analytics,79,98,10,2024-01-30,Yes,9.09
+STU147,Anika Das,Full Stack Web Dev,45,75,7,2024-06-05,Yes,8.18
+STU148,Krishna Singh,Data Analytics,79,58,3,2024-07-30,No,
+STU149,Myra Gupta,Full Stack Web Dev,81,65,8,2024-07-15,Yes,4.52
+STU150,Anika Sharma,Data Analytics,91,42,7,2024-09-22,Yes,2.67
